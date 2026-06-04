@@ -25,3 +25,8 @@
 如果我这条commit提交了，还是没有自动触发同步，则CD外自动同步功能也坏了，时间：17:24
 
 -----
+
+结论：上一条commit已经成功同步了，说明1小时外的能够通过commit自动触发，如图：
+![企业微信截图_8ced92a0-33c3-4cf2-ae14-40c49a252262.png](https://raw.gitcode.com/user-images/assets/10033296/3bdfbef1-f5a2-4dc3-aa71-27bd4f4c9f76/企业微信截图_8ced92a0-33c3-4cf2-ae14-40c49a252262.png '企业微信截图_8ced92a0-33c3-4cf2-ae14-40c49a252262.png')
+
+如果我这条commit提交了，不能触发自动同步，说明CD 5分钟外不能自动触发，要1小时后
