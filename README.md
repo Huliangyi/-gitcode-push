@@ -1,4 +1,6 @@
-# 这个仓库往GitHubPush镜像（https://github.com/Huliangyi/-gitcode-push）
+# 这个仓库往GitHubPush镜像
+#### GitHub：https://github.com/Huliangyi/-gitcode-push
+#### GitCode：https://gitcode.com/Hly2700w/pushgithub/blob/dev/README.md
 
 这是添加镜像同步后第1次提交commit，时间：11:24
 
